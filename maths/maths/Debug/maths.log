@@ -1,0 +1,6 @@
+﻿  maths.cpp
+d:\кучка кода\maths\maths\maths.cpp(39): warning C4101: y: неиспользованная локальная переменная
+d:\кучка кода\maths\maths\maths.cpp(39): warning C4101: i: неиспользованная локальная переменная
+d:\кучка кода\maths\maths\maths.cpp(39): warning C4101: h: неиспользованная локальная переменная
+  maths.vcxproj -> D:\кучка кода\maths\Debug\maths.exe
+  maths.vcxproj -> D:\кучка кода\maths\Debug\maths.pdb (Full PDB)
